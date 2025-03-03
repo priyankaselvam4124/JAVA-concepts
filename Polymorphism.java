@@ -26,7 +26,7 @@ class Square extends Shape{
         System.out.println("Drawing a square");
     }
 }
-public class 5_Polymorphism {
+public class Polymorphism {
     public static void main(String[] args) {
     //method overloading - compile time polymorphism
     Shape s1 = new  Shape();

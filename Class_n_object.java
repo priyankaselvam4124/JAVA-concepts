@@ -10,7 +10,7 @@ class Stud{
         +" is from"+ school+" and is "+ age+" years old");
     }
 }
-public class 1_Class_n_object{
+public class Class_n_object{
     public static void main (String[] args){
         Stud student =new Stud();
         student.name="julia";
