@@ -39,7 +39,7 @@ public void withdraw(double amount)
     }
 }
 
-public class Encapsulation_ {
+public class 3_Encapsulation {
     public static void main(String [] args){
         BankAccount myBank =new BankAccount("123456789",1000);
         System.out.println("current balance : "+ myBank.getBalance());
