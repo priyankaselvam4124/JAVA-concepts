@@ -22,7 +22,7 @@ if(amount>0){
     System.out.println("deposited: " + amount);
 
 }else{
-    System.err.println("Invalid deposit amt");;
+    System.out.println("Invalid deposit amt");;
 }
 }
 //setter withdraw()
