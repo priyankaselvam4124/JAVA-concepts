@@ -16,7 +16,7 @@ class Cat extends Animal{
         System.out.println("Cat says meow");
     }
 }
-public class Abstraction {
+public class 4_Abstraction {
     public static void main(String[] args){
         Animal myDog =new Dog();
         myDog.makeSound();
