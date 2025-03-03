@@ -25,7 +25,7 @@ class Car{
 
 }
 
-public class Constructor_n_method {
+public class 2_Constructor_n_method {
     public static void main(String[] args) {
     Car c1 = new Car();
     Car c2 =new Car (  "honda",1888,90) ;
